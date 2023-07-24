@@ -1,0 +1,1 @@
+Power BI Dashboard Data Cleaning Steps done as below Deleted unneccesary colums split column by delimiter split column by digit to non digit replace values new DAX column added. Average Salary = (split salary column 1 + split salary column 2)/2
